@@ -6,8 +6,8 @@
         "repositoryURL": "https://github.com/powderhouse/aws-sdk-swift-core.git",
         "state": {
           "branch": null,
-          "revision": "bb987f21f7fa0e6589eb43186db13d97b89fd736",
-          "version": "0.0.1"
+          "revision": "48ebc3cc6dbadfbc1b48beff9d16eb17feba5b86",
+          "version": "0.0.2"
         }
       },
       {
@@ -42,8 +42,8 @@
         "repositoryURL": "https://github.com/powderhouse/Prorsum.git",
         "state": {
           "branch": null,
-          "revision": "56ceceaa8062504aa3fde6d50533a780aa732052",
-          "version": "0.0.1"
+          "revision": "f616f1cde281c7031b9d0e5e97debd241c27d2b9",
+          "version": "0.0.2"
         }
       },
       {
