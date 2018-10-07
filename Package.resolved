@@ -39,11 +39,11 @@
       },
       {
         "package": "Prorsum",
-        "repositoryURL": "https://github.com/noppoMan/Prorsum.git",
+        "repositoryURL": "https://github.com/powderhouse/Prorsum.git",
         "state": {
           "branch": null,
-          "revision": "b278e88142a3b5a87feabc44b6522dabfcda8f99",
-          "version": "0.3.3"
+          "revision": "56ceceaa8062504aa3fde6d50533a780aa732052",
+          "version": "0.0.1"
         }
       },
       {
