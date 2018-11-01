@@ -8,7 +8,7 @@ let package = Package(
       .library(name: "SwiftAWSIam", targets: ["SwiftAWSIam"]),
   ],
   dependencies: [
-      .package(url: "https://github.com/powderhouse/aws-sdk-swift-core.git", .exact("0.0.2"))
+      .package(url: "https://github.com/powderhouse/aws-sdk-swift-core.git", .exact("0.0.3"))
   ],
   targets: [
       .target(name: "SwiftAWSIam", dependencies: ["AWSSDKSwiftCore"]),
